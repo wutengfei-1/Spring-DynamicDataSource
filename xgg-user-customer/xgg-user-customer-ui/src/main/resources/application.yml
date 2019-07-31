@@ -1,0 +1,17 @@
+#server:
+#  servlet-path: /xgg-user-customer
+#  port: 32101
+#
+#dubbo:
+#  application:
+#    name: xgg-user-cusyomer
+#  registry:
+#    address: zookeeper://127.0.0.1:2181
+#  protocol:
+#    name: dubbo
+#    port: 20882
+
+apollo:
+  meta: http://127.0.0.1:8080
+  bootstrap:
+    enabled: true

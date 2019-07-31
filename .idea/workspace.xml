@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae4e9890-eeec-4f21-b498-a740784ad83d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/xgg-user-services/target/" />
+    <ignored path="$PROJECT_DIR$/xgg-user-provider/target/" />
+    <ignored path="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/" />
+    <ignored path="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/" />
+    <ignored path="$PROJECT_DIR$/xgg-user-customer/target/" />
+    <ignored path="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/kotlin/cn/sr/user/customer/ui/controller/LoginController.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <element signature="e#43#426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/controller/UserServiceController.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <element signature="e#43#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xgg-user-provider/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>application</find>
+      <find>ApplicationContext</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/controller/UserServiceController.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/App.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/kotlin/cn/sr/dto/UserInfoDto.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/kotlin/cn/sr/UserServiceApi.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/rpc/UserServiceApiImpl.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/api/rpc/UserServiceApiImpl.kt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/kotlin/cn/sr/user/provider/api/dto/UserInfoDto.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/kotlin/cn/sr/user/customer/ui/controller/LoginController.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/resources/META-INF/app.properties" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/controller/UserServiceController.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/ApolloConfig.java" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/DubboConfig.java" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/rpc/UserServiceApiImpl.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/DubboConfig.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/ApolloConfig.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/App.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources/META-INF/app.properties" />
+        <option value="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/kotlin/cn/sr/user/customer/ui/App.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xgg-user-provider-ui" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xgg-user-provider-ui" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-171" />
+    <option name="y" value="-996" />
+    <option name="width" value="1736" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-api" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="cn.sr.user.provider.api.dto" />
+      <recent name="cn.sr.user.provider.api" />
+      <recent name="xxx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App (2)">
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xgg-user-provider-ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sr.user.provider.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sr.user.provider.ui.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xgg-user-customer-ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sr.user.customer.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sr.user.customer.ui.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.App (1)" />
+      <item itemvalue="Spring Boot.App (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App (2)" />
+        <item itemvalue="Spring Boot.App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae4e9890-eeec-4f21-b498-a740784ad83d" name="Default Changelist" comment="" />
+      <created>1564380369388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564380369388</updated>
+      <workItem from="1564380373751" duration="1339000" />
+      <workItem from="1564381742539" duration="38371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39710000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-171" y="-996" width="1736" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18713105" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Messages" weight="0.3279703" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36757424" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3293979" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295796" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xgg-user-services/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/xgg.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://MAVEN/sn.sr:xgg-user-provider-ui:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>sn.sr:xgg-user-provider-ui:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">sn.sr:xgg-user-provider-ui:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot:jar:1.5.18.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot:jar:1.5.18.RELEASE/org.springframework:spring-context:jar:4.3.21.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.18.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/org.slf4j:slf4j-api:jar:1.7.22</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25/org.slf4j:slf4j-api:jar:1.7.22</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.18.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25/org.slf4j:slf4j-api:jar:1.7.22</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.springframework:spring-core:jar:4.3.21.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.18.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.18.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.18.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.35</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.18.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.35/org.apache.tomcat:tomcat-annotations-api:jar:8.5.35</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.18.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.35</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.18.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.35</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.3/com.fasterxml.jackson.core:jackson-core:jar:2.8.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework:spring-web:jar:4.3.21.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework:spring-web:jar:4.3.21.RELEASE/org.springframework:spring-aop:jar:4.3.21.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework:spring-web:jar:4.3.21.RELEASE/org.springframework:spring-beans:jar:4.3.21.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework:spring-webmvc:jar:4.3.21.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.18.RELEASE/org.springframework:spring-webmvc:jar:4.3.21.RELEASE/org.springframework:spring-expression:jar:4.3.21.RELEASE</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/com.alibaba:dubbo:jar:2.6.5</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/com.alibaba:dubbo:jar:2.6.5/org.springframework:spring-context:jar:4.3.16.RELEASE</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/com.alibaba:dubbo:jar:2.6.5/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/com.alibaba:dubbo:jar:2.6.5/org.jboss.netty:netty:jar:3.2.5.Final</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/org.apache.curator:curator-framework:jar:2.12.0</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/org.apache.curator:curator-framework:jar:2.12.0/org.apache.curator:curator-client:jar:2.12.0</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/org.apache.curator:curator-framework:jar:2.12.0/org.apache.curator:curator-client:jar:2.12.0/com.google.guava:guava:jar:16.0.1</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/org.apache.curator:curator-framework:jar:2.12.0/org.apache.curator:curator-client:jar:2.12.0/org.slf4j:slf4j-api:jar:1.7.6</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/com.alibaba.boot:dubbo-spring-boot-autoconfigure:jar:0.1.2.RELEASE</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/com.alibaba.boot:dubbo-spring-boot-autoconfigure:jar:0.1.2.RELEASE/com.alibaba.spring:spring-context-support:jar:1.0.2</node>
+            <node x="" y="">com.alibaba.boot:dubbo-spring-boot-starter:jar:0.1.2.RELEASE/com.alibaba.boot:dubbo-spring-boot-actuator:jar:0.1.2.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.603321033210332" x="554.5" y="542.0000000000001" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.21.RELEASE/spring-web-4.3.21.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.18.RELEASE/spring-boot-autoconfigure-1.5.18.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.21.RELEASE/spring-web-4.3.21.RELEASE-sources.jar!/org/springframework/web/bind/annotation/PathVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/1.5.18.RELEASE/spring-boot-starter-1.5.18.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.5/dubbo-2.6.5.jar!/com/alibaba/dubbo/config/annotation/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.5/dubbo-2.6.5-sources.jar!/com/alibaba/dubbo/config/annotation/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.2.50/kotlin-stdlib-common-1.2.50-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="1477" column="36" lean-forward="true" selection-start-line="1477" selection-start-column="36" selection-end-line="1477" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.21.RELEASE/spring-web-4.3.21.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-customer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.35/tomcat-embed-core-8.5.35.jar!/org/apache/catalina/connector/Connector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="508" selection-start-line="508" selection-end-line="508" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/ir/annotations/Reference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/kotlin/cn/sr/user/provider/api/dto/UserInfoDto.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/apollo/apollo-client/1.1.0/apollo-client-1.1.0.jar!/com/ctrip/framework/apollo/ConfigService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/apollo/apollo-client/1.1.0/apollo-client-1.1.0.jar!/com/ctrip/framework/apollo/Config.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/apollo/apollo-client/1.1.0/apollo-client-1.1.0.jar!/com/ctrip/framework/apollo/spring/annotation/EnableApolloConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/apollo/apollo-client/1.1.0/apollo-client-1.1.0-sources.jar!/com/ctrip/framework/apollo/spring/annotation/EnableApolloConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-514">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.21.RELEASE/spring-beans-4.3.21.RELEASE.jar!/org/springframework/beans/factory/annotation/Value.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.21.RELEASE/spring-beans-4.3.21.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="51" column="46" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.21.RELEASE/spring-beans-4.3.21.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/CustomNumberEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.35/tomcat-embed-core-8.5.35.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.35/tomcat-embed-core-8.5.35-sources.jar!/javax/servlet/http/HttpServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="138" column="31" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/ApolloConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/DubboConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.5/dubbo-2.6.5-sources.jar!/com/alibaba/dubbo/config/ProtocolConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
+          <folding>
+            <element signature="e#4208#4209#0" expanded="true" />
+            <element signature="e#4240#4241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ctrip/framework/apollo/apollo-client/1.1.0/apollo-client-1.1.0-sources.jar!/com/ctrip/framework/apollo/ConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.5/dubbo-2.6.5-sources.jar!/com/alibaba/dubbo/config/spring/context/annotation/DubboComponentScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.5/dubbo-2.6.5-sources.jar!/com/alibaba/dubbo/config/spring/context/annotation/EnableDubbo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/DubboConfig.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <element signature="e#39#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/config/ApolloConfig.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="e#39#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/rpc/UserServiceApiImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#36#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/App.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/resources/META-INF/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources/META-INF/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/kotlin/cn/sr/user/customer/ui/App.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#32#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/kotlin/cn/sr/user/provider/api/UserServiceApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/kotlin/cn/sr/user/customer/ui/controller/LoginController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="e#43#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/controller/UserServiceController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="e#43#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|xgg-user-provider-ui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
