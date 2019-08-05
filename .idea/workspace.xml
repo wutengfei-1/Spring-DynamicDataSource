@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae4e9890-eeec-4f21-b498-a740784ad83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/aspect/SelectDataSourceAspect.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/config/MultipleDataSourceConfig.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/datasource/DynamicDataSource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/mapper/UserMapper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/po/UserPo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/service/UserService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/test/TTmnt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/xgg-user-provider-core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/kotlin/cn/sr/user/customer/ui/controller/LoginController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/kotlin/cn/sr/user/customer/ui/controller/LoginController.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/cn/sr/user/customer/ui/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/cn/sr/user/customer/ui/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/cn/sr/user/customer/ui/AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/cn/sr/user/customer/ui/AppKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/cn/sr/user/customer/ui/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/target/classes/cn/sr/user/customer/ui/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/kotlin/cn/sr/user/provider/api/UserServiceApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/src/main/kotlin/cn/sr/user/provider/api/UserServiceApi.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/classes/cn/sr/user/provider/api/UserServiceApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/classes/cn/sr/user/provider/api/UserServiceApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/classes/cn/sr/user/provider/api/dto/UserInfoDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/classes/cn/sr/user/provider/api/dto/UserInfoDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/xgg-user-provider-api-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api/target/xgg-user-provider-api-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/controller/UserServiceController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/controller/UserServiceController.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/rpc/UserServiceApiImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/kotlin/cn/sr/user/provider/ui/rpc/UserServiceApiImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/App$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/AppKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/controller/UserServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/controller/UserServiceController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/rpc/UserServiceApiImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui/target/classes/cn/sr/user/provider/ui/rpc/UserServiceApiImpl.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,7 +37,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="126" column="13" lean-forward="true" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/datasource/DynamicDataSource.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,8 +128,8 @@
         <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/test/TTmnt.kt" />
         <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/config/MultipleDataSourceConfig.kt" />
         <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/aspect/SelectDataSourceAspect.kt" />
-        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/datasource/DynamicDataSource.kt" />
         <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/service/UserService.kt" />
+        <option value="$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/datasource/DynamicDataSource.kt" />
       </list>
     </option>
   </component>
@@ -200,6 +175,67 @@
               <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
               <item name="xgg" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xgg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xgg" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="xgg-user-provider-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -244,6 +280,7 @@
       <recent name="xxx" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources" />
     </key>
   </component>
@@ -328,17 +365,26 @@
       <workItem from="1564570663786" duration="396000" />
       <workItem from="1564571069290" duration="13724000" />
       <workItem from="1564627969630" duration="18000" />
-      <workItem from="1564715044213" duration="65853000" />
+      <workItem from="1564715044213" duration="66781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130964000" />
+    <option name="totallyTimeSpent" value="131892000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-204" y="-993" width="1850" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49776787" visible="true" weight="0.19469027" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49776787" visible="true" weight="0.19469027" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -352,14 +398,14 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32920793" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3279703" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3279703" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005531" side_tool="true" weight="0.36633664" />
       <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32920793" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.325419" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -382,26 +428,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/cn.sr.user.provider.core.config">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>cn.sr.user.provider.core.config</OriginalElement>
-          <nodes>
-            <node x="" y="">cn.sr.user.provider.core.config.TTmnt</node>
-            <node x="" y="">cn.sr.user.provider.core.config.MybatisConfig</node>
-            <node x="" y="">cn.sr.user.provider.core.config.SelectDataSourceAspect</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="125.0" y="88.5" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.21.RELEASE/spring-context-4.3.21.RELEASE-sources.jar!/org/springframework/context/annotation/Bean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-899">
@@ -754,13 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/datasource/DynamicDataSource.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/App.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -820,6 +839,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui/src/main/resources/META-INF/app.properties">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="126" column="13" lean-forward="true" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core/src/main/kotlin/cn/sr/user/provider/core/datasource/DynamicDataSource.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
