@@ -33,6 +33,11 @@ class LoginController {
         return map
     }
 
+    @PostMapping
+    fun register(@RequestBody userInfoDto: UserInfoDto):String {
+        return userServiceApi.addUserInfo(userInfoDto).toString()
+    }
+
     @GetMapping("/echo")
     fun echo(): String {
         return "echo"

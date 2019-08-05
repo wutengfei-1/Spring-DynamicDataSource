@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgg-user-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgg-user-customer/xgg-user-customer-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgg-user-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xgg-user-provider/xgg-user-provider-ui" charset="UTF-8" />
+  </component>
+</project>

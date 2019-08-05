@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xgg-user-provider-api" />
         <module name="xgg-user-provider-ui" />
         <module name="xgg-user-customer-ui" />
+        <module name="xgg-user-provider-core" />
+        <module name="xgg-user-provider-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

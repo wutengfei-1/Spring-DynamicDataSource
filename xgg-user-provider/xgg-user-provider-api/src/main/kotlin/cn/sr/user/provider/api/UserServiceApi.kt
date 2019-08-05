@@ -5,5 +5,5 @@ import cn.sr.user.provider.api.dto.UserInfoDto
 interface UserServiceApi {
     fun getUserInfoByUserId(id: Int): UserInfoDto
 
-    fun addUserInfo(userInfoDto: UserInfoDto)
+    fun addUserInfo(userInfoDto: UserInfoDto): Boolean
 }
